@@ -21,10 +21,7 @@
 title: Sunaabh's Knowledge Trove
 email: tsunaabh@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm Sunaabh, an Engineer working at arm, and this is my blog. It's really a place for me to write up anything I find interesting.
-  That includes things I've done, things I've read, or just any item of curiosity. The focus is primarily computer archiecture, embedded systems
-  and systems programming, cause those are the things that tickle my brain, but there may be the occasional outlier post. I hope anyone reading
-  this learns something, just like I hope to do myself.
+  I'm Sunaabh, an Engineer working at arm, and this is my blog.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
